@@ -12,7 +12,7 @@ Custom STM32-based Embedded board inspired by Phil’s Lab reference design, wit
 
 
 
-##Technical Challeneges and Design choices
+## Technical Challeneges and Design choices
 
 
 
