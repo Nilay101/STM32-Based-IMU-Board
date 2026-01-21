@@ -27,7 +27,7 @@ Layer 4: Signal Plane
 
 ## Block Diagram
 
-![image alt](https://github.com/Nilay101/Custom-STM32-Dev-Board/blob/6a344818592aa0d849b2fb8fcec08449e4e59e0f/Block%20Diagram.pdf)
+![image alt]([https://github.com/Nilay101/Custom-STM32-Dev-Board/blob/6a344818592aa0d849b2fb8fcec08449e4e59e0f/Block%20Diagram.pdf](https://github.com/Nilay101/Custom-STM32-Dev-Board/blob/main/image.png?raw=true))
 
 
 ## Technical Challeneges and Design choices
