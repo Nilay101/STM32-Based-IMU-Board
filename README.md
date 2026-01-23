@@ -31,20 +31,7 @@ Layer 4: Signal Plane
 
 ![image alt](https://github.com/Nilay101/Custom-STM32-Dev-Board/blob/16371348452a1c2ff128c51463f2502fd200e9f9/image.png)
 
-
-## Technical Challeneges and Design choices
-
-
-
-
-
 ## Tools used
 - Altium Designer
 - GitHub
 
-## Project Status
-- [x] Selection of Components
-- [x] Schematic
-- [x] Electrical Rule Check
-- [x] PCB Layout
-- [ ] Design Rule Check
