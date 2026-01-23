@@ -27,11 +27,11 @@ Layer 2: Ground Plane
 Layer 3: Ground Plane
 Layer 4: Signal Plane
 
-## Block Diagram
+## 3.Block Diagram
 
 ![image alt](https://github.com/Nilay101/Custom-STM32-Dev-Board/blob/16371348452a1c2ff128c51463f2502fd200e9f9/image.png)
 
-## Tools used
+## 4.Tools used
 - Altium Designer
 - GitHub
 
