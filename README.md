@@ -34,7 +34,7 @@ Layer 4: Signal Plane
 
 ## 4.Layer Stack 
 
-![image alt](https://github.com/Nilay101/STM32-Based-IMU-Board/blob/main/Hardware/Layer_Stack.png?raw=true)
+![image alt](https://github.com/Nilay101/STM32-Based-IMU-Board/blob/main/Hardware/Layer_Stack(1).png?raw=true)
 
 ## 5.Software Used
 - Altium Designer
