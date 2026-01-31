@@ -1,6 +1,6 @@
 # STM32 based Inertial Measurement Unit (IMU) Module
 
-[!IMPORTANT]
+[! IMPORTANT]
 >Note: This project is a product of independent, self-taught study into PCB design and Circuit Design using Professional Tools. As a Self-learning candinate I am trying to implement a Design Flow which is followed according to the industry-standard workflows—including those shared by professional mentors like Phil’s Lab. This Project may contains errors which have been overlooked by me the the process of designing it. Any suggesstions, changes or recommendations would be appreciated.
 
 ## 1.Project Overview
