@@ -23,7 +23,7 @@ Custom STM32-based Embedded board inspired by Phil’s Lab reference design, wit
 >[Physical Specifications]
 
 * ` Dimensions: 37mm x 34mm x 2mm`
-![image alt]([https://github.com/Nilay101/STM32-Based-IMU-Board/blob/main/Hardware/Dimension.png?raw=true](https://github.com/Nilay101/STM32-Based-IMU-Board/blob/main/Manufacturing%20Details/New_Dimensions.png?raw=true))
+![image alt](https://github.com/Nilay101/STM32-Based-IMU-Board/blob/main/Manufacturing%20Details/New_Dimensions.png?raw=true)
 
 ## 4. Layer Stack 
 
