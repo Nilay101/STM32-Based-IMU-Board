@@ -7,8 +7,12 @@ Custom STM32-based Embedded board inspired by Phil’s Lab reference design, wit
 
 `The design was developed in Altium Designer, following industry-standard practices for schematic capture, PCB layout, and signal integrity.` 
 
+## 2. Block Diagram
 
-## 2. Key Specifications
+![image alt](https://github.com/Nilay101/STM32-Based-IMU-Board/blob/main/Images/Block_Diagram.jpg?raw=true)
+
+
+## 3. Key Specifications
 > [Technical Specifications]
 * `Microcontroller: STM32F411CEU6 (ARM Cortex-M4)`
 * `Sensor: MPU-6050 (6-DOF IMU) via I2C interface.`
@@ -20,11 +24,6 @@ Custom STM32-based Embedded board inspired by Phil’s Lab reference design, wit
 
 * ` Dimensions: 37mm x 34mm x 2mm`
 ![image alt](https://github.com/Nilay101/STM32-Based-IMU-Board/blob/main/Hardware/Dimension.png?raw=true)
-
-## 3. Block Diagram
-
-![image alt](https://github.com/Nilay101/STM32-Based-IMU-Board/blob/main/Images/Block_Diagram.jpg?raw=true)
-
 
 ## 4. Layer Stack 
 
