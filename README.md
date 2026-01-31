@@ -27,4 +27,4 @@ Custom STM32-based Embedded board inspired by Phil’s Lab reference design, wit
 
 ## 4. Layer Stack 
 
-![image alt]([https://github.com/Nilay101/STM32-Based-IMU-Board/blob/main/Hardware/Layer_Stack(1).png?raw=true](https://github.com/Nilay101/STM32-Based-IMU-Board/blob/main/Manufacturing%20Details/Layer_Stack_1.png?raw=true))
+![image alt]([[https://github.com/Nilay101/STM32-Based-IMU-Board/blob/main/Hardware/Layer_Stack(1).png?raw=true](https://github.com/Nilay101/STM32-Based-IMU-Board/blob/main/Manufacturing%20Details/Layer_Stack_1.png?raw=true](https://github.com/Nilay101/STM32-Based-IMU-Board/blob/main/Manufacturing%20Details/Layer_Stack_1.png?raw=true)))
