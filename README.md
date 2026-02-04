@@ -29,7 +29,10 @@ Custom STM32-based Embedded board inspired by Phil’s Lab reference design, wit
 ## 4. Layer Stack 
                             
 ![image alt](https://github.com/Nilay101/STM32-Based-IMU-Board/blob/main/Manufacturing%20Details/Layer_Stack_1.png?raw=true)
-
+` Layer 1: Signal `
+` Layer 2: GND `
+` Layer 3: GND `
+` Layer 4: Signal `
 <table>
   <tr>
     <td><img src="https://github.com/Nilay101/STM32-Based-IMU-Board/blob/main/Images/Layers/Layer(1).png?raw=true"/></td>
