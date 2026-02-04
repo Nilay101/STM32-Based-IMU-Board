@@ -41,3 +41,8 @@ Custom STM32-based Embedded board inspired by Phil’s Lab reference design, wit
   </tr>
 </table>
 
+## 5. Final Overview
+
+![image alt](https://github.com/Nilay101/STM32-Based-IMU-Board/blob/main/Images/Final.png?raw=true)
+
+
