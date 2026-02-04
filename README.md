@@ -32,8 +32,8 @@ Custom STM32-based Embedded board inspired by Phil’s Lab reference design, wit
 
 <table>
   <tr>
-    <td><img src="https://github.com/Nilay101/STM32-Based-IMU-Board/blob/main/Images/Layers/Layer(1).png?raw=true" width="300"/></td>
-    <td><img src="https://github.com/Nilay101/STM32-Based-IMU-Board/blob/main/Images/Layers/Layer(2).png?raw=true" width="300"/></td>
+    <td><img src="https://github.com/Nilay101/STM32-Based-IMU-Board/blob/main/Images/Layers/Layer(1).png?raw=true"/></td>
+    <td><img src="https://github.com/Nilay101/STM32-Based-IMU-Board/blob/main/Images/Layers/Layer(2).png?raw=true"/></td>
   </tr>
   <tr>
     <td><img src="https://github.com/Nilay101/STM32-Based-IMU-Board/blob/main/Images/Layers/Layer(3).png?raw=true"/></td>
