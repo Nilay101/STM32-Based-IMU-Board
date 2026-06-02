@@ -22,6 +22,7 @@ The design was developed in Altium Designer, following industry-standard practic
 ![image alt](https://github.com/Nilay101/STM32-Based-IMU-Board/blob/main/Manufacturing%20Details/New_Dimensions.png?raw=true)
 
 ## 3. Block Diagram 
+The follow image shows the design flow and architecture of the PCB in high-level block diagram.
                                       
 ![image alt](https://github.com/Nilay101/STM32-Based-IMU-Board/blob/main/Images/Block_Diagram.jpg?raw=true)
 
