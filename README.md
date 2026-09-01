@@ -29,10 +29,15 @@ The follow image shows the design flow and architecture of the PCB in high-level
 ## 4. Layer Stack 
                             
 ![image alt](https://github.com/Nilay101/STM32-Based-IMU-Board/blob/main/Manufacturing%20Details/Layer_Stack_1.png?raw=true)
-` Layer 1: Signal `
-` Layer 2: GND `
-` Layer 3: GND `
-` Layer 4: Signal `
+The board utilizes a 4-layer stackup to ensure robust power distribution dynamics and minimize electromagnetic interference (EMI) for sensitive I2C traces.
+
+`Layer 1 (Signal): Top routing and component placement`
+
+`Layer 2 (GND): Solid ground plane for return paths`
+
+`Layer 3 (GND): Secondary ground plane`
+
+`Layer 4 (Signal): Bottom routing`
 <table>
   <tr>
     <td><img src="https://github.com/Nilay101/STM32-Based-IMU-Board/blob/main/Images/Layers/Layer(1).png?raw=true"/></td>
