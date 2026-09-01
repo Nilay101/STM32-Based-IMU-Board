@@ -1,7 +1,8 @@
 # STM32 based Inertial Measurement Unit (IMU) Module
 ## 1. Project Overview
- This project is a custom-designed development board featuring an STM32 microcontroller (STM32F411CEU6) integrated with an MPU-6050 6-axis accelerometer and gyroscope. The board is designed for high-performance motion tracking applications, featuring a compact form factor and optimized power delivery.
-Custom STM32-based Embedded board inspired by Phil’s Lab reference design, with design choices validated and documented designed in Altium Designer. 
+This project is a custom-designed development board featuring an STM32 microcontroller (STM32F411CEU6) integrated with an MPU-6050 6-axis accelerometer and gyroscope. The board is designed for high-performance motion tracking applications, prioritizing a compact form factor and optimized power delivery.
+
+Inspired by Phil’s Lab reference designs, this board was developed from scratch in Altium Designer. The design process strictly follows industry-standard hardware practices for schematic capture, 4-layer PCB layout, and signal integrity—with all design choices validated and fully documented.
 
 The design was developed in Altium Designer, following industry-standard practices for schematic capture, PCB layout, and signal integrity.
 
