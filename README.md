@@ -53,4 +53,12 @@ The board utilizes a 4-layer stackup to ensure robust power distribution dynamic
 
 ![image alt](https://github.com/Nilay101/STM32-Based-IMU-Board/blob/main/Images/Final.png?raw=true)
 
+## 6. Future Extensions
+As this project is intended to highlight physical hardware architecture rather than embedded software programming, future board revisions will target physical and analog enhancements:
+
+Multi-Rail Power Distribution: Replacing the standard LDO with a dedicated physical buck converter module to regulate separate voltage rails (e.g., isolating the analog sensor supply from the digital MCU supply) for reduced switching noise.
+
+Analog Front-End (AFE) Integration: Adding discrete op-amp stages to filter and condition additional external analog sensors before routing signals to the STM32's internal ADC.
+
+Enhanced Testability: Adding dedicated surface-mount test points (TPs) across the I2C bus and power distribution traces for easier board-level trace physics validation and oscilloscope probing.
 
