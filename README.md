@@ -40,12 +40,12 @@ The board utilizes a 4-layer stackup to ensure robust power distribution dynamic
 `Layer 4 (Signal): Bottom routing`
 <table>
   <tr>
-    <td><img src="https://github.com/Nilay101/STM32-Based-IMU-Board/blob/main/Images/Layers/Layer(1).png?raw=true"/></td>
-    <td><img src="https://github.com/Nilay101/STM32-Based-IMU-Board/blob/main/Images/Layers/Layer(2).png?raw=true"/></td>
+    <td><img src="https://github.com/Nilay101/STM32-Based-IMU-Board/blob/7682db277642496030ad1f8c85eb5979f05e7b81/Images/Layer(1).png"/></td>
+    <td><img src="https://github.com/Nilay101/STM32-Based-IMU-Board/blob/7682db277642496030ad1f8c85eb5979f05e7b81/Images/Layer(2).png"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Nilay101/STM32-Based-IMU-Board/blob/main/Images/Layers/Layer(3).png?raw=true"/></td>
-    <td><img src="https://github.com/Nilay101/STM32-Based-IMU-Board/blob/main/Images/Layers/Layer(4).png?raw=true"/></td>
+    <td><img src="https://github.com/Nilay101/STM32-Based-IMU-Board/blob/7682db277642496030ad1f8c85eb5979f05e7b81/Images/Layer(3).png"/></td>
+    <td><img src="https://github.com/Nilay101/STM32-Based-IMU-Board/blob/7682db277642496030ad1f8c85eb5979f05e7b81/Images/Layer(4).png"/></td>
   </tr>
 </table>
 
