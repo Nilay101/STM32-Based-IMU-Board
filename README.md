@@ -51,7 +51,7 @@ The board utilizes a 4-layer stackup to ensure robust power distribution dynamic
 
 ## 5. Final Overview
 
-![image alt](https://github.com/Nilay101/STM32-Based-IMU-Board/blob/main/Images/Final.png?raw=true)
+![image alt](https://github.com/Nilay101/STM32-Based-IMU-Board/blob/10f066081bc83daadb139114c38ce32633660244/Images/PCB(1).png)
 
 ## 6. Future Extensions
 As this project is intended to highlight physical hardware architecture rather than embedded software programming, future board revisions will target physical and analog enhancements:
